@@ -1,4 +1,4 @@
 # gitDemo
 This is my first Github Repository
 <br>
-Author- Mohammad Arsh
+Author- Mohammad Arsh (LPU)
